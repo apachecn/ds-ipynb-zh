@@ -1,4 +1,4 @@
-# 数据科学和人工智能技术笔记
+# 数据科学 IPython 笔记本
 
 > 原文：[donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 > 
