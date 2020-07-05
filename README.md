@@ -13,7 +13,7 @@
 
 <!-- break -->
 
-+ [在线阅读](https://www.gitbook.com/book/wizardforcel/ds-ipynb/details)
++ [在线阅读](https://ds-ipynb.apachecn.org)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/ds-ipynb)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/ds-ipynb)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/ds-ipynb)
