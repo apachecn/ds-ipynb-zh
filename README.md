@@ -21,6 +21,14 @@
 
 ## 下载
 
+### PYPI
+
+```
+pip install ds-ipynb-zh
+ds-ipynb-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
