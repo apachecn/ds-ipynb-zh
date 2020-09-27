@@ -19,6 +19,16 @@
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/ds-ipynb)
 + [代码仓库](https://github.com/apachecn/ds-ipynb-zh)
 
+## 下载
+
+### NPM
+
+```
+npm install -g ds-ipynb-zh
+ds-ipynb-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ## 赞助我
 
 ![](http://ww1.sinaimg.cn/large/841aea59ly1fx0qnvulnjj2074074747.jpg)
