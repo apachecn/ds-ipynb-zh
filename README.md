@@ -14,6 +14,7 @@
 <!-- break -->
 
 + [在线阅读](https://ds-ipynb.apachecn.org)
++ [在线阅读（Gitee）](https://apachecn.gitee.io/ds-ipynb-zh/)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/ds-ipynb)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/ds-ipynb)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/ds-ipynb)
